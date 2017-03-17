@@ -1,0 +1,145 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 2,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-large-with-shading-2000x1545.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#232323",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Lincoln United Open Trials</span><br>",
+          "text": "<br>Lincoln United will be hosting two open trials in April. Trials will take place on April 8/9th and 29th/30th and are open to all elidible and interested players. <span style=\"font-size: 1.5rem; line-height: 1.5;\">In order to compete in the CSL USA, players must be at least 16 years old and have either U.S. citizenship or a valid visa. </span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">There is a $50 trial fee that will be put towards your player registration fee if you are selected. All trialists need to submit the $50 trial fee in addition to a release of liability before participation. </span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Both trials will be held at Lincoln United's host location for the 2017, Doane University. Directions to the field can be found below. </span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Registration for both trials is now open, so feel free to register now or contact a member of our coaching staff for more information. &nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://goo.gl/forms/tWBtYhzCHYiZG45T2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Register &nbsp;Now &nbsp; &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://goo.gl/forms/pBpc2RC25JrRcsaF2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Contact a Coach</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "15px"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#c0a375"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-1",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#898989",
+            "googleMap": {
+              "address": "Simon Field, Crete, NE 68333",
+              "placeId": "ChIJU3XxWAnllocRk8MXBu3qyUM",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-0",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper-banner-smaller-logo-2000x692.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222"
+          },
+          "text": "<br><br><br><br>FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Lincoln_United\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Lincoln United 2017."
+        }
+      ]
+    }
+  }
+}
